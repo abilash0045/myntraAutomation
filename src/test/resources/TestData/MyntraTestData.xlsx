@@ -1,0 +1,6 @@
+# This is a placeholder for Excel file content
+# The actual Excel file should contain the following sheets:
+# 1. ProductDetails - with columns: ProductName, Size
+# 2. SearchProduct - with columns: ProductName, Category
+# 3. Credentials - with columns: Username, Password
+# 4. AccountCreationData - with columns: FirstName, LastName, Email, Password, Address, City, State, ZipCode, Country, MobileNumber
